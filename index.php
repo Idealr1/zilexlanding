@@ -155,7 +155,7 @@
 
     <script>
         document.addEventListener("DOMContentLoaded", function () {
-            const countdownDate = new Date("November 12, 2024 00:00:00").getTime();
+            const countdownDate = new Date("November 12, 2024 10:00:00").getTime();
 
             function updateCountdown() {
                 const now = new Date().getTime();
